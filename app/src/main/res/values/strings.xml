@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Alberti Cipher</string>
+    <string name="encript_with_one_key">Encript with one key</string>
+    <string name="encript_with_multiple_key">Encript with Multiple key</string>
+    <string name="decrypt_any_alberti_cipher">Decrypt any Alberti Cipher</string>
+    <string name="please_give_the_messge_to_encrypt">Please give the messge to encrypt.</string>
+    <string name="initial">Initial :</string>
+    <string name="result">Result</string>
+    <string name="encript">Encript</string>
+    <string name="message">Message :</string>
+    <string name="please_give_the_initial_key">Please give the initial key.</string>
+    <string name="encryption">Encryption :</string>
+    <string name="please_give_the_encription_key">Please give the encription key.</string>
+    <string name="jump">Jump :</string>
+    <string name="please_give_how_much_to_jump">Please give how much to Jump.</string>
+    <string name="encription">Encription :</string>
+    <string name="decrypt">DECRYPT</string>
+    <string name="help">Help ?</string>
+    <string name="about_us">About Us</string>
+    <!--    <string name=""></string>-->
+</resources>
